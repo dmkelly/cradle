@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 test/fixtures/README.md
 test/fixtures/not-found.txt
+/.git
+/.gitignore
